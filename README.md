@@ -1,0 +1,1 @@
+Examines jpg image pixel colors and bins into four "Earth colors" (blue, white, green, brown). Outputs pixel coords (x,y = lon,lat) and color values.
